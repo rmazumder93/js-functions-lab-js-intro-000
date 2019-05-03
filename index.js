@@ -10,6 +10,6 @@ function happyHolidayTo(Eid,Rezwan) {
   return `Happy ${Eid}, ${Rezwan}!`;
 }
 
-function holidayCountdown(five,Eid) {
+function holidayCountdown(Eid,five) {
   return `It's ${five} days until ${Eid}!`
 }
