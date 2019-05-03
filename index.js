@@ -6,6 +6,6 @@ function happyHolidaysTo(Rezwan) {
   return `Happy holidays, ${Rezwan}!`;
 }
 
-function happyHolidaysTo(Eid,Rezwan) {
+function happyHolidayTo(Eid,Rezwan) {
   return `Happy ${Eid}, ${Rezwan}!`;
 }
