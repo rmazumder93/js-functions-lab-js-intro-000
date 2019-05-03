@@ -11,5 +11,5 @@ function happyHolidayTo(Eid,Rezwan) {
 }
 
 function holidayCountdown(5,Eid) {
-  return `It's ${5} days until ${Eid}!`;
+  return `It's ${5} days until ${Eid}!`
 }
