@@ -3,5 +3,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(Rezwan) {
-  return `Happy holidays, ${name}!`
+  return `Happy holidays, ${name}!`;
 }
